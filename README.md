@@ -8,9 +8,8 @@ Olá! Sou Leonel Linhares, um apaixonado por tecnologia e desenvolvimento. Este 
 
 ##  Habilidades Técnicas
 
-- **Linguagens**: JavaScript, HTML5, CSS3, Python
-- **Frameworks/Libraries**: React, Node.js, Express
-- **Ferramentas**: Git, GitHub, VS Code
+- **Linguagens**: Python
+- **Ferramentas**: Git, GitHub, VS Code, Pycharm
 - **Outros**: Responsive Design, APIs REST
 
 ##  Projetos Acadêmicos Destacados
